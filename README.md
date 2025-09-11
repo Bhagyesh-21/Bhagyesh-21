@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [LetsPLAY: Turf Booking System](https://github.com/Bhagyesh-21/Turf-Booking-Backend)
 
-- 🌱 I’m currently learning **Spring Boot, Numpy, Pandas**
+- 🌱 I’m currently learning **Spring Boot, Python, Numpy, Pandas**
 
 - 👯 I’m worked on [Jewelry-website](https://github.com/Bhagyesh-21/Jewelry-website)
 
